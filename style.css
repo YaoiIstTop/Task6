@@ -1,0 +1,77 @@
+.main{
+  display: flex;
+  flex-flow: row;
+  margin: 0 auto;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+header{
+  background-color: #b7bbed;
+  border-radius: 20px;
+  text-align: center;
+  font-family: century gothic;
+}
+
+.card{
+  background-color: #d8daf0;
+  border-radius: 10px;
+  font-size: 35px;
+}
+
+
+.comicsansms{
+  font-family: comic sans ms;
+}
+
+.couriernew{
+  font-family: courier new;
+}
+
+.franklingothicmedium{
+  font-family: franklin gothic medium;
+}
+
+.FANTASY{
+  font-family: FANTASY;
+}
+
+.gabriola{
+  font-family: gabriola;
+}
+
+.georgiaitalicimpact{
+  font-family: georgia italic impact;
+}
+
+.box{
+  width: 400px;
+}
+
+.d166ca{
+  background-color: #d166ca;
+}
+
+.a15f9c{
+  background-color: #a15f9c;
+}
+
+.d4a5d1{
+  background-color: #d4a5d1;
+}
+
+.c493b0{
+  background-color: #c493b0;
+}
+
+.d162a3{
+  background-color: #d162a3;
+}
+
+.e041c9{
+  background-color: #e041c9;
+}
+
+.eba4c3{
+  background-color: #eba4c3;
+}
